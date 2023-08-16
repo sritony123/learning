@@ -1,4 +1,3 @@
 #!/bin/bash
 
-echo " hello"
-zdf fjhndfj
+echo "hello world! from  gopi"
