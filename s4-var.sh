@@ -3,7 +3,7 @@
 
 echo "enter the username"
 
-read  -s USERNSME
+read  -s USERNAME
 
 echo " the username is : $USERNAME"
 
