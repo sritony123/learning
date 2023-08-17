@@ -3,4 +3,4 @@
 DATE=$(date)
 
 
-echo "hello , good morning $date"
+echo "hello , good morning $DATE"
