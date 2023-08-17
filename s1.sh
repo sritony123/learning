@@ -1,5 +1,8 @@
 #!/bin/bash
 
-echo "hello world! from   gopi"
-echo " come to the pavan"
-echo "dhgcukd djhcvdh "
+
+person1=a
+person2=b
+
+echo "$person1: hi $person2 good morng"
+echo ""$person2: hi $person1 good morng"
